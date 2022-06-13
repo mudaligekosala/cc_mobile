@@ -1,4 +1,4 @@
-
 ## Development Notes
 
-        This is Notes
+This is Readme for cc_mobile
+
